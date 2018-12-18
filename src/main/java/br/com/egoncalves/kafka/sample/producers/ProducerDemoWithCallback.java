@@ -1,4 +1,4 @@
-package br.com.egoncalves.kafka.sample;
+package br.com.egoncalves.kafka.sample.producers;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
